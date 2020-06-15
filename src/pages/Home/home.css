@@ -1,0 +1,12 @@
+.home .iconfont {
+    font-size: 20px;
+  }
+  
+  /* 固定定位tabbar到底部 */
+  .home .am-tab-bar{
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     height: 50px;
+     width: 100%;
+  }
